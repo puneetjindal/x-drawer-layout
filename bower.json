@@ -1,0 +1,13 @@
+{
+  "name": "x-drawer-layout",
+  "homepage": "https://github.com/puneetjindal/x-drawer-layout",
+  "_release": "795344b243",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "795344b243f08ec2e729b2d42356bb1edd691ccc"
+  },
+  "_source": "git://github.com/puneetjindal/x-drawer-layout.git",
+  "_target": "master",
+  "_originalSource": "puneetjindal/x-drawer-layout"
+}
